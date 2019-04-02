@@ -1,1 +1,0 @@
-# Classification_and_Prediction_of_Pulmonary_Tuberculosis
